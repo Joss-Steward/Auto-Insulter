@@ -12,3 +12,8 @@ apt-get install cabal-install
 cabal update
 cabal install random
 ```
+
+Then simply compile it:
+```
+ghc insultGenerator.hs
+```
